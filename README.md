@@ -2,4 +2,4 @@
 
 ### John Baskerville — Intro to HTML & CSS
 
-[Baskerville 1](http://dan.gold/ixd101/baskerville-1.html)
+[Baskerville 1](https://itsdangold.github.io/ixd101/baskerville-1.html)
