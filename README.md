@@ -3,7 +3,7 @@
 ## **Intro to HTML & CSS**
 
 #### John Baskerville
-[Baskerville 1 — Initial Markup](https://itsdangold.github.io/ixd101/intro_to_html/baskerville/baskerville1.html)
+[Baskerville 1 — Initial markup](https://itsdangold.github.io/ixd101/intro_to_html/baskerville/baskerville1.html)
 
 [Baskerville 2 — Nested lists](https://itsdangold.github.io/ixd101/intro_to_html/baskerville/baskerville2.html)
 
