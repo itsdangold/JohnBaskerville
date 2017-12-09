@@ -48,13 +48,13 @@ li {
 
 a {
     text-decoration: none;
-    color: #567FD9;
-    border-bottom: 1.5px dotted #567FD9;
+    color: #72696F;
+    border-bottom: 1.5px dotted #72696F;
 }
 
 a:hover {
-    color: #203052;
-    border-bottom: 1.5px dotted #203052;
+    color: #333;
+    border-bottom: 1.5px dotted #333;
 }
 
 h1 {
@@ -63,7 +63,7 @@ h1 {
 }
 
 h2 {
-    color: #152857;
+    color: #262325;
     font-size: 2.618em;
     font-style: italic;
 }
@@ -72,9 +72,9 @@ h3 {
     font-size: 2.5em;
 }
 
-#top,
+header,
 footer {
-    background-color: #4465AC;
+    background-color: #72696F;
 }
 
 h2 {
@@ -85,23 +85,30 @@ h2 {
 header p {
     line-height: 1.65em;
     margin-top: 5em;
-    color: #203052;
+    color: #383437;
     width: 85%;
 }
 
 /*----- Layout -----*/
 
-section,
 header {
-    padding: 5% 20%;
+    padding: 7.5% 20%;
     margin: auto;
+}
+
+section {
+    padding: 0% 20% 5% 20%;
+    margin: auto;
+}
+
+section:first-of-type {
+    padding-top: 10%;
 }
 
 nav {
     margin-top: 5em;
 }
 
-footer a,
 nav a {
     color: #fff;
     font-weight: bold;
@@ -111,16 +118,8 @@ nav a {
 
 img {
     padding: 3em 0;
+    width: 20%;
     height: auto;
-}
-
-#the-man img {
-    width: 30%;
-}
-
-#the-typeface img,
-#mrs-eaves img {
-    width: 45%;
 }
 
 table {
@@ -128,8 +127,8 @@ table {
 }
 
 table caption {
-    padding: 1em 0 0 0;
-    font-size: 1.5em;
+    padding: 4em 0 0 0;
+    font-size: 1.2em;
     text-align: left;
     font-weight: bold;
 }
@@ -140,18 +139,17 @@ th {
 
 th,
 td {
-    padding: 1em 1em 0 0;
+    padding: 1.5em 2em 0 0;
 }
 
 footer {
     font-size: .75em;
     padding: 2.5% 20%;
     margin: auto;
-    color: #203052;
+    color: #383437;
 }
 
 footer small {
-    padding-bottom: 1em;
     display: block;
     width: 100%;
     line-height: 1.65em;

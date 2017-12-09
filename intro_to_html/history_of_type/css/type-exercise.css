@@ -1,0 +1,97 @@
+* {
+    font-size: 100%;
+    line-height: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    padding: 5% 17.5%;
+    margin: auto;
+    max-width: 768px;
+}
+
+section {
+    padding: 2em 0;
+}
+
+h1 {
+    font-weight: 600;
+    padding: .25em 0;
+    font-size: 3.75em;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 1.75em;
+    font-style: italic;
+}
+
+h3 {
+    font-size: 1.1em;
+    text-transform: uppercase;
+}
+
+p {
+    padding: .5em 0;
+    font-size: .9em;
+    line-height: 1.5em;
+}
+
+blockquote {
+    font-weight: 600;
+    padding: 2em 0 0 0;
+    font-size: 1.1em;
+    color: #bbb;
+    font-style: italic;
+    line-height: 1.55em;
+    text-indent: -6px;
+    letter-spacing: .025em;
+}
+
+cite {
+    padding: 1.25em 0 0 0;
+    line-height: 1.6em;
+    display: block;
+    font-size: .75em;
+    text-indent: 0;
+}
+
+.intro {
+    font-size: 1.1em;
+    padding: 2.5em 0 1.5em 0;
+}
+
+hr {
+    border: .5px solid hotpink;
+    margin: 3em 0;
+}
+
+/*Section styling*/
+
+.first {
+    font-family: 'Libre Baskerville', 'Georgia', serif;
+}
+
+.first p:nth-of-type(2):first-letter {
+    font-size: 4.5em;
+    float: left;
+    line-height: 30px;
+    padding: 0 .1em 0 0;
+
+}
+
+.second {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.third {
+    font-family: 'Arvo', sans-serif;
+}
+
+.second h3,
+.third h3,
+.third p {
+    font-family: 'Open Sans', sans-serif;
+}
