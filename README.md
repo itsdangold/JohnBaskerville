@@ -22,7 +22,7 @@
 
 [Brief History of Type 4 — CSS](https://itsdangold.github.io/ixd101/intro_to_html/history_of_type/history4.html)
 
-[Brief History of Type 4 — Web Typography](https://itsdangold.github.io/ixd101/intro_to_html/history_of_type/history5.html)
+[Brief History of Type 5 — Web Typography](https://itsdangold.github.io/ixd101/intro_to_html/history_of_type/history5.html)
 
 ---
 
