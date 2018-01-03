@@ -1,0 +1,178 @@
+/*----- CSS Reset -----*/
+
+* {
+    font-size: 100%;
+    line-height: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+/*----- Typography & Colour -----*/
+
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    font-family: 'Raleway', sans-serif;
+    margin: auto;
+    width: 100%;
+    text-align: left;
+    overflow-x: hidden;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+section p,
+section li,
+blockquote {
+    line-height: 1.65em;
+    margin-bottom: 1.4em;
+}
+
+blockquote {
+    background-color: #ddd;
+    padding: 2em;
+    font-size: .85em;
+    color: #555;
+    font-weight: lighter;
+}
+
+a {
+    text-decoration: none;
+    color: #72696F;
+    border-bottom: 1.5px dotted #72696F;
+}
+
+a:hover {
+    color: #333;
+    border-bottom: 1.5px dotted #333;
+}
+
+h1 {
+    color: #fff;
+    font-size: 4.236em;
+}
+
+h2 {
+    color: #262325;
+    font-size: 2.618em;
+    font-style: italic;
+}
+
+h3 {
+    font-size: 2.5em;
+}
+
+header,
+footer {
+    background-color: #72696F;
+}
+
+h2 {
+    margin-top: .5em;
+    font-weight: normal;
+}
+
+header p {
+    line-height: 1.65em;
+    margin-top: 5em;
+    color: #383437;
+}
+
+/*----- Layout -----*/
+
+header {
+    min-height: 85vh;
+    height: 100%;
+    margin: auto;
+    padding: 10vh 20% 5vh 20%;
+}
+
+section {
+    padding: 0% 20% 5% 20%;
+    margin: auto;
+}
+
+section:first-of-type {
+    padding-top: 10%;
+}
+
+nav {
+    margin-top: 5em;
+}
+
+nav a {
+    color: #fff;
+    font-weight: bold;
+    border-bottom: 1.5px dotted #fff;
+}
+
+table {
+    padding: 1.5em 0 2em 0;
+}
+
+table caption {
+    padding: 4em 0 0 0;
+    font-size: 1.2em;
+    text-align: left;
+    font-weight: bold;
+}
+
+th {
+    font-size: 1.2em;
+}
+
+th,
+td {
+    padding: 1.5em 2em 0 0;
+}
+
+footer {
+    font-size: .75em;
+    padding: 2.5% 20%;
+    margin: auto;
+    color: #383437;
+}
+
+footer small {
+    display: block;
+    width: 100%;
+    line-height: 1.65em;
+}
+
+/*  Flexbox styling  */
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 3em 0;
+}
+
+p.flex-item {
+    width: 70%;
+}
+
+div.flex-item {
+    width: 20%;
+}
+
+.flex-container img {
+    width: 100%;
+    height: auto;
+}
+
+.flex-nav {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 5vh;
+}
+
+.flex-nav a {
+    margin: 1em 2em 1em 0;
+}
