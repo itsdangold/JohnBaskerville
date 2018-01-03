@@ -13,6 +13,8 @@
 
 [Baskerville 5 — CSS & Web Typography](https://itsdangold.github.io/ixd101/intro_to_html/baskerville/baskerville5.html)
 
+[Baskerville 6 — Flexbox](https://itsdangold.github.io/ixd101/intro_to_html/baskerville/baskerville6.html)
+
 #### History of Type
 [Brief History of Type 1 — Initial markup](https://itsdangold.github.io/ixd101/intro_to_html/history_of_type/history1.html)
 
@@ -23,6 +25,8 @@
 [Brief History of Type 4 — CSS](https://itsdangold.github.io/ixd101/intro_to_html/history_of_type/history4.html)
 
 [Brief History of Type 5 — Web Typography](https://itsdangold.github.io/ixd101/intro_to_html/history_of_type/history5.html)
+
+[Brief History of Type 6 — Flexbox](https://itsdangold.github.io/ixd101/intro_to_html/history_of_type/history6.html)
 
 ---
 
